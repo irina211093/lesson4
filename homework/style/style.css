@@ -1,0 +1,30 @@
+body {
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    border: 2px solid;
+    width: 80%;
+    max-width: 1200;
+    height:min-content 400px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+#section2 {
+    img {
+        width: 200px;
+        height: 300px;
+        padding: 20px;
+    }
+}
+
+#section3 { 
+    img {
+        padding: 20px;
+        height: 50px;
+        width: 50px;
+        margin: 5px; 
+    }
+}
